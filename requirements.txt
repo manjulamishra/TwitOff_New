@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+tweepy 
+basilica 
+python-decouple 
+python-dotenv 
+scikit-learn 
+gunicorn 
+psycopg2
