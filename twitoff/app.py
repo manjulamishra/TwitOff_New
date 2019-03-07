@@ -1,4 +1,4 @@
-"""Main application and routing logic for TwitOff."""
+""" .. Main application and routing logic for TwitOff."""
 from decouple import config
 from flask import Flask, render_template, request
 from .models import DB, User
