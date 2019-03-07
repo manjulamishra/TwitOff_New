@@ -7,3 +7,4 @@ python-dotenv
 scikit-learn 
 gunicorn 
 psycopg2
+pyscopg2-binary
